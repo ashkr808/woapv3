@@ -3,6 +3,25 @@
   h1 {
     font-weight: 600;
   }
+  .resume-role {
+    color: rgba(255, 255, 255, 0.85);
+    margin-bottom: 16px;
+  }
+  .resume-links {
+    a {
+      text-decoration: underline;
+    }
+  }
+  .resume-list {
+    padding-left: 18px;
+    margin-bottom: 0;
+    li {
+      margin-bottom: 10px;
+    }
+  }
+  .resume-extra {
+    color: rgba(255, 255, 255, 0.75);
+  }
   a {
     color: rgba(255, 255, 255, 0.6);
     cursor: pointer;
